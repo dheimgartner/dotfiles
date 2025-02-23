@@ -1,0 +1,42 @@
+0000000000000000000000000000000000000000 e27fb3df37c1026e4296f966290e27d1a66cb517 dheimgartner <d.heimgartners@gmail.com> 1737412265 +0100	commit (initial): radian console works - sending code does not
+e27fb3df37c1026e4296f966290e27d1a66cb517 19bd5a8777c996adda4165464aff42982f734403 dheimgartner <d.heimgartners@gmail.com> 1737842880 +0100	commit: ftplugin
+19bd5a8777c996adda4165464aff42982f734403 2c95d25beec5dc1b2fdde77340e1cb141f6fd1b3 dheimgartner <d.heimgartners@gmail.com> 1737842920 +0100	commit: init
+2c95d25beec5dc1b2fdde77340e1cb141f6fd1b3 c55ddf6d25343757e878dca4c871fc579f8c6917 dheimgartner <d.heimgartners@gmail.com> 1737842954 +0100	commit: yolo dev; see github/yolo.nvim
+c55ddf6d25343757e878dca4c871fc579f8c6917 3fd7e7b50a905aadad1f8777bef5e584a230b265 dheimgartner <d.heimgartners@gmail.com> 1738190645 +0100	commit: using lazy
+3fd7e7b50a905aadad1f8777bef5e584a230b265 d2cf75c7e09caa05a47d7f9b32737842c0da6b85 dheimgartner <d.heimgartners@gmail.com> 1738193546 +0100	commit: added treesitter tokyonight and yolo
+d2cf75c7e09caa05a47d7f9b32737842c0da6b85 7a3a0dda9752ad8a7f25776ee5423591d00acef2 dheimgartner <d.heimgartners@gmail.com> 1738193750 +0100	commit: init for tracking random thoughts
+7a3a0dda9752ad8a7f25776ee5423591d00acef2 58e7fc0164853995d498d4725541dceb336b420c dheimgartner <d.heimgartners@gmail.com> 1739013747 +0100	commit: added telescope
+58e7fc0164853995d498d4725541dceb336b420c 58e7fc0164853995d498d4725541dceb336b420c dheimgartner <d.heimgartners@gmail.com> 1739013755 +0100	checkout: moving from main to dev
+58e7fc0164853995d498d4725541dceb336b420c 1bb9ab7529091ac5c9f1e665c866aea960db4db5 dheimgartner <d.heimgartners@gmail.com> 1739014645 +0100	commit: added oil
+1bb9ab7529091ac5c9f1e665c866aea960db4db5 17413e87c683fbc60db6ddb9648643e9c5597c67 dheimgartner <d.heimgartners@gmail.com> 1739015317 +0100	commit: no linenumbers in term
+17413e87c683fbc60db6ddb9648643e9c5597c67 ad85d6ad6a1e12bb50c113f01d97853817e6fed2 dheimgartner <d.heimgartners@gmail.com> 1739016185 +0100	commit: split right, split below
+ad85d6ad6a1e12bb50c113f01d97853817e6fed2 333e2c91b7c6d4ba671eceae643d7a51d208b905 dheimgartner <d.heimgartners@gmail.com> 1739216628 +0100	commit: remap jump tag
+333e2c91b7c6d4ba671eceae643d7a51d208b905 2b8702571b0d464d93ee526d4682f524c98f6c1a dheimgartner <d.heimgartners@gmail.com> 1739216664 +0100	commit: updated treesitter
+2b8702571b0d464d93ee526d4682f524c98f6c1a 863a4760b84325efcefa99477e9078e0195045bb dheimgartner <d.heimgartners@gmail.com> 1739216708 +0100	commit: s instead of f
+863a4760b84325efcefa99477e9078e0195045bb 7b66deafbdf3cec5528bab92a5dd62caa0826fbb dheimgartner <d.heimgartners@gmail.com> 1739216715 +0100	commit: init
+7b66deafbdf3cec5528bab92a5dd62caa0826fbb 42bd45b552b998408b171d0e6f450f7e483d616c dheimgartner <d.heimgartners@gmail.com> 1739218293 +0100	commit: keymap.set instead of vim.api...
+42bd45b552b998408b171d0e6f450f7e483d616c b3ce78ec85eab20853b98afd978e92d13e417274 dheimgartner <d.heimgartners@gmail.com> 1739218309 +0100	commit: _plugins to load local dev plugins
+b3ce78ec85eab20853b98afd978e92d13e417274 9448ac8ed3cc798fa04ef0ea29f1965ecb8e38b9 dheimgartner <d.heimgartners@gmail.com> 1739221292 +0100	commit: dev plugins are loaded with lazy.nvim => see lua/plugins/nvim_plugins.lua
+9448ac8ed3cc798fa04ef0ea29f1965ecb8e38b9 5b6d65c85944c453c7e5d28df6f346823341debb dheimgartner <d.heimgartners@gmail.com> 1739567199 +0100	commit: minimal changes
+5b6d65c85944c453c7e5d28df6f346823341debb 58e7fc0164853995d498d4725541dceb336b420c dheimgartner <d.heimgartners@gmail.com> 1739569642 +0100	checkout: moving from dev to main
+58e7fc0164853995d498d4725541dceb336b420c 5b6d65c85944c453c7e5d28df6f346823341debb dheimgartner <d.heimgartners@gmail.com> 1739569648 +0100	merge dev: Fast-forward
+5b6d65c85944c453c7e5d28df6f346823341debb 5b6d65c85944c453c7e5d28df6f346823341debb dheimgartner <d.heimgartners@gmail.com> 1739569665 +0100	checkout: moving from main to dev
+5b6d65c85944c453c7e5d28df6f346823341debb 0f5ef67b47f8e1bd036d8054c8bd7e6fc1c656c2 dheimgartner <d.heimgartners@gmail.com> 1739572818 +0100	commit: some config
+0f5ef67b47f8e1bd036d8054c8bd7e6fc1c656c2 f28dd6eebf555f45f588f36f02127be44ee85c59 dheimgartner <d.heimgartners@gmail.com> 1739619161 +0100	commit: iron config => ctrl+enter sends code and toggling and stuff
+f28dd6eebf555f45f588f36f02127be44ee85c59 be7a872a72613f4ddec866cfdc2aa6b6bfd27272 dheimgartner <d.heimgartners@gmail.com> 1739619183 +0100	commit: basic lsp config (r and lua languageservers work) => nice
+be7a872a72613f4ddec866cfdc2aa6b6bfd27272 9e6a79338be8f5e4815e3500771926cc1457d8e4 dheimgartner <d.heimgartners@gmail.com> 1739619707 +0100	commit: all keymaps in init.lua
+9e6a79338be8f5e4815e3500771926cc1457d8e4 9110675adf58f2f2d3c9a0991ca6c1d30a759036 dheimgartner <d.heimgartners@gmail.com> 1739619974 +0100	commit: cleaned up startup hints 'hello from ...'
+9110675adf58f2f2d3c9a0991ca6c1d30a759036 f081df0f66a016e71ec9cb9a3993e7f8c686478c dheimgartner <d.heimgartners@gmail.com> 1739649151 +0100	commit: which key
+f081df0f66a016e71ec9cb9a3993e7f8c686478c 7171f46316e5092c5e5c3a351b88d9e810c816e8 dheimgartner <d.heimgartners@gmail.com> 1739652810 +0100	commit: blink
+7171f46316e5092c5e5c3a351b88d9e810c816e8 f081df0f66a016e71ec9cb9a3993e7f8c686478c dheimgartner <d.heimgartners@gmail.com> 1739652829 +0100	checkout: moving from dev to HEAD~1
+f081df0f66a016e71ec9cb9a3993e7f8c686478c 7171f46316e5092c5e5c3a351b88d9e810c816e8 dheimgartner <d.heimgartners@gmail.com> 1739652902 +0100	checkout: moving from f081df0f66a016e71ec9cb9a3993e7f8c686478c to dev
+7171f46316e5092c5e5c3a351b88d9e810c816e8 9be0806146fbe15b74fe2d39401cc4ce2dc8d3bc dheimgartner <d.heimgartners@gmail.com> 1739655236 +0100	commit: using a nerd font
+9be0806146fbe15b74fe2d39401cc4ce2dc8d3bc 326557cf60e48811d2de5cce0b1c71b309bb0cd7 dheimgartner <d.heimgartners@gmail.com> 1739659999 +0100	commit: adding mini.icons
+326557cf60e48811d2de5cce0b1c71b309bb0cd7 6b0bfb8e9481126f9324227493958abaf7b69930 dheimgartner <d.heimgartners@gmail.com> 1740220942 +0100	commit: blob
+6b0bfb8e9481126f9324227493958abaf7b69930 5b6d65c85944c453c7e5d28df6f346823341debb dheimgartner <d.heimgartners@gmail.com> 1740220971 +0100	checkout: moving from dev to main
+5b6d65c85944c453c7e5d28df6f346823341debb 6b0bfb8e9481126f9324227493958abaf7b69930 dheimgartner <d.heimgartners@gmail.com> 1740220975 +0100	merge dev: Fast-forward
+6b0bfb8e9481126f9324227493958abaf7b69930 6b0bfb8e9481126f9324227493958abaf7b69930 dheimgartner <d.heimgartners@gmail.com> 1740220989 +0100	checkout: moving from main to dev
+6b0bfb8e9481126f9324227493958abaf7b69930 811507370d14c97b9c0f4cada5f78562a51c708c dheimgartner <d.heimgartners@gmail.com> 1740223913 +0100	commit: small terminal and own repl console with radian example - nice!
+811507370d14c97b9c0f4cada5f78562a51c708c 9f85a628a3cbb8ade9a01d2be1be55b356b274b4 dheimgartner <d.heimgartners@gmail.com> 1740244599 +0100	commit: floaterminal and first scratch of repler (sending current line works)
+9f85a628a3cbb8ade9a01d2be1be55b356b274b4 4c63018a35193169d3ab51b8ec93ad97828dfe61 dheimgartner <d.heimgartners@gmail.com> 1740244909 +0100	commit: removed exploratory terminal stuff from init and added table in vim.fn.chansend
+4c63018a35193169d3ab51b8ec93ad97828dfe61 f50e2c2d879a568cbc567cc36c6a4791150ad9c9 dheimgartner <d.heimgartners@gmail.com> 1740327024 +0100	commit: repler plugin dev in nvim_plugins
