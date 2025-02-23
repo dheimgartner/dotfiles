@@ -8,8 +8,8 @@ return {
     version = "*",
     opts = {
       keymap = {
-        preset = "default",
-        ["<C-CR>"] = { "select_and_accept", "fallback" },
+        preset = "super-tab",
+        -- ["<C-CR>"] = { "select_and_accept", "fallback" },
       },
       appearance = {
         -- Sets the fallback highlight groups to nvim-cmp"s highlight groups
