@@ -47,7 +47,9 @@ vim.keymap.set("n", "<leader>/", function()
 end, { desc = "Telescope fuzzy search in current buffer" })
 vim.keymap.set("n", "<leader>en", function()
   builtin.find_files {
-    cwd = vim.fn.stdpath("config")
+    cwd = vim.fn.stdpath("config"),
+    hidden = true,  -- show hidden files
+    no_ignore = true,  -- show files listed in .gitignore
   }
 end, { desc = "Telescope edit nvim" })
 
@@ -68,8 +70,8 @@ vim.keymap.set("n", "<leader>it", ":IronRepl<CR>", { desc = "Iron togge" })
 -- vim.keymap.set("n", "<C-CR>", require("iron.core").send_line, { desc = "Iron send line" })
 
 -- repler
-vim.keymap.set("n", "<C-CR>", require("repler").core.repler_send_line, { desc = "Repler send line" })
-vim.keymap.set("v", "<C-CR>", require("repler").core.repler_send_visual, { desc = "Repler send visual" })
+vim.keymap.set("n", "<leader><leader>r", require("repler").core.repler_send_line, { desc = "Repler send line" })
+vim.keymap.set("v", "<leader><leader>r", require("repler").core.repler_send_visual, { desc = "Repler send visual" })
 vim.keymap.set({"n", "t"}, "<leader>r", require("repler").core.toggle_repler, { desc = "Repler toggle" })
 vim.keymap.set({"n", "t"}, "<leader>rr", function()
     require("repler").core.toggle_repler({ repl = "radian" })
